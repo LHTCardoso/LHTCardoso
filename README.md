@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=5000&pause=5000&color=00F7FF&center=true&vCenter=true&width=700&repeat=true&lines= Olá,+eu+sou+Luiz+o+Cardoso💻;Em+constante+evolução!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=5000&pause=3000&color=00F7FF&center=true&vCenter=true&width=700&repeat=true&lines=+Olá,+eu+sou+o+Luiz+Cardoso💻;+Estou+em+constante+evolução!🚀" alt="Typing Animation" />
 </p>
 
 
@@ -66,6 +66,14 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/luiz-cardoso-83b4021b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/lzzcardoso" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/cxrdosiN" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
 </p>
 
 ---
