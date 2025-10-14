@@ -1,4 +1,11 @@
-## Hi there 👋
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Luiz+Cardoso;💻" alt="Typing Animation" />
+</p>
+
+## Tenho 24 anos, estou no 7º período de Sistemas de Informação e me formei como tecnólogo em Design Gráfico. Hoje, estou focado em construir minha carreira na área de desenvolvimento de software, que é onde realmente quero crescer.
+
+Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar o que venho aprendendo e continuar evoluindo na prática. Já passei por projetos acadêmicos, estudos pessoais e estou sempre tentando aprender algo novo — seja uma linguagem, um framework ou uma forma melhor de resolver problemas. 👋
 
 <!--
 **LHTCardoso/LHTCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 👋 README Personalizado por Luiz Cardoso -->
-
-<!-- 👋 README Personalizado por Luiz Cardoso -->
-
-<!-- Banner animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Luiz+Cardoso;💻" alt="Typing Animation" />
-</p>
 
 <!-- Fundo animado (efeito com partículas) -->
 <p align="center">
@@ -33,8 +32,7 @@ Here are some ideas to get you started:
 ### 🧠 Sobre mim
 
 - 🚀 Sempre explorando novas tecnologias e aprimorando minhas habilidades. 
-- 💡 Interesse em desenvolvimento **frontend e backend**  
-- 🎯 Foco em criar experiências digitais modernas, rápidas e intuitivas  
+- 💡 Interesse em desenvolvimento **frontend**  
 - 🕹️ Apaixonado por **tecnologia, games e inovação**
 
 ---
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue,html,css,git,github,vscode,mysql,ps,ai,postgres" />
 </p>
 
 ---
@@ -62,16 +60,16 @@ Here are some ideas to get you started:
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-cardoso-83b4021b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
-
+<!-- 
 ### 💡 Projetos em Destaque *(para ativar depois)*
 
-<!-- 
+
 🧩 Aqui você pode listar seus principais projetos quando quiser:
 - [Nome do Projeto 1](link) - breve descrição.
 - [Nome do Projeto 2](link) - breve descrição.
@@ -93,7 +91,6 @@ Here are some ideas to get you started:
 
 ---
 
-⭐ *Feito com dedicação e café por [Luiz Cardoso](https://github.com/LuizCardoso)* ☕
+⭐ *Feito com dedicação, muito código e café por [Luiz Cardoso](https://github.com/LuizCardoso)* ☕
 
-⭐ *Feito com dedicação e café por [Luiz Cardoso](https://github.com/LuizCardoso)* ☕
 
