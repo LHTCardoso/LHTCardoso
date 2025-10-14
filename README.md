@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 <!-- 👋 README Personalizado por Luiz Cardoso -->
 
-<h1 align="center">👋 Olá, eu sou o Luiz Cardoso</h1>
+<!-- 👋 README Personalizado por Luiz Cardoso -->
 
-<h3 align="center">💻 Desenvolvedor em constante evolução 🚀</h3>
-
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack;Apaixonado+por+tecnologia;Criando+soluções+com+JavaScript%2C+Node%2C+React+e+Vue;Em+constante+evolução+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Luiz+Cardoso;💻+Desenvolvedor+em+Constante+Evolução+🚀;⚡+Criando+Experiências+com+JavaScript,+Node,+React+e+Vue" alt="Typing Animation" />
+</p>
+
+<!-- Fundo animado (efeito com partículas) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -78,7 +82,7 @@ Here are some ideas to get you started:
 ### ⚡ Curiosidades
 
 - 🌙 Tema preferido: **Dark mode**  
-- ☕ Motivação: "Em constante evolução 🚀"  
+- ☕ Motivação: *"Em constante evolução 🚀"*  
 - 💬 Sempre aberto a colaborações e novos aprendizados  
 
 ---
@@ -88,6 +92,8 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+⭐ *Feito com dedicação e café por [Luiz Cardoso](https://github.com/LuizCardoso)* ☕
 
 ⭐ *Feito com dedicação e café por [Luiz Cardoso](https://github.com/LuizCardoso)* ☕
 
