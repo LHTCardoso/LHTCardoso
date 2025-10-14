@@ -7,7 +7,7 @@
 
 Tenho 24 anos, estou no 7º período de Sistemas de Informação e me formei como tecnólogo em Design Gráfico. Hoje, estou focado em construir minha carreira na área de desenvolvimento de software, que é onde realmente quero crescer.
 
-Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar o que venho aprendendo e continuar evoluindo na prática. Já passei por projetos acadêmicos, estudos pessoais e estou sempre tentando aprender algo novo — seja uma linguagem, um framework ou uma forma melhor de resolver problemas. 👋
+Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar o que venho aprendendo e continuar evoluindo na prática. Já passei por projetos acadêmicos, estudos pessoais e estou sempre tentando aprender algo novo — seja uma linguagem, um framework ou uma forma melhor de resolver problemas.
 
 <!--
 **LHTCardoso/LHTCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ### 🧠 Sobre mim
 
 - 🚀 Sempre explorando novas tecnologias e aprimorando minhas habilidades. 
-- 💡 Interesse em desenvolvimento **frontend**  
-- 🕹️ Apaixonado por **tecnologia, games e inovação**
+- 💡 Interesse em desenvolvimento **frontend**  .
+- 🕹️ Apaixonado por **tecnologia, games e inovação**.
 
 ---
 
@@ -77,13 +77,12 @@ Here are some ideas to get you started:
 - [Nome do Projeto 2](link) - breve descrição.
 -->
 
----
-
 ### ⚡ Curiosidades
 
-- 🌙 Tema preferido: **Dark mode**  
+<!--
+- 🌙 Tema preferido: **Dark mode**  -->
 - ☕ Motivação: *"Em constante evolução 🚀"*  
-- 💬 Sempre aberto a colaborações e novos aprendizados  
+- 💬 Sempre aberto a colaborações e novos aprendizados. 
 
 ---
 
