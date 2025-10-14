@@ -5,10 +5,11 @@
 
 
 
-
+<p align="center">
 Tenho 24 anos, estou no 7º período de Sistemas de Informação e me formei como tecnólogo em Design Gráfico. Hoje, estou focado em construir minha carreira na área de desenvolvimento de software, que é onde realmente quero crescer.
 
 Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar o que venho aprendendo e continuar evoluindo na prática. Já passei por projetos acadêmicos, estudos pessoais e estou sempre tentando aprender algo novo — seja uma linguagem, um framework ou uma forma melhor de resolver problemas.
+</p>
 
 <!--
 **LHTCardoso/LHTCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,7 +71,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/cxrdosiN" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
