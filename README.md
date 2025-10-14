@@ -1,9 +1,9 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Luiz+Cardoso;💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Luiz+Cardoso💻;" alt="Typing Animation" />
 </p>
 
-## Tenho 24 anos, estou no 7º período de Sistemas de Informação e me formei como tecnólogo em Design Gráfico. Hoje, estou focado em construir minha carreira na área de desenvolvimento de software, que é onde realmente quero crescer.
+Tenho 24 anos, estou no 7º período de Sistemas de Informação e me formei como tecnólogo em Design Gráfico. Hoje, estou focado em construir minha carreira na área de desenvolvimento de software, que é onde realmente quero crescer.
 
 Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar o que venho aprendendo e continuar evoluindo na prática. Já passei por projetos acadêmicos, estudos pessoais e estou sempre tentando aprender algo novo — seja uma linguagem, um framework ou uma forma melhor de resolver problemas. 👋
 
