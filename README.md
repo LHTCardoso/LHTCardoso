@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue,html,css,git,github,vscode,mysql,ps,ai,postgres" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue,html,css,git,github,vscode,mysql,postgres,ps,ai" />
 </p>
 
 ---
