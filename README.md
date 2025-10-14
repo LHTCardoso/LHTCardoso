@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Luiz+Cardoso;💻+Desenvolvedor+em+Constante+Evolução+🚀;⚡+Criando+Experiências+com+JavaScript,+Node,+React+e+Vue" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Luiz+Cardoso;💻" alt="Typing Animation" />
 </p>
 
 <!-- Fundo animado (efeito com partículas) -->
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 🧠 Sobre mim
 
-- 🚀 Sempre explorando novas tecnologias e aprimorando minhas habilidades  
+- 🚀 Sempre explorando novas tecnologias e aprimorando minhas habilidades. 
 - 💡 Interesse em desenvolvimento **frontend e backend**  
 - 🎯 Foco em criar experiências digitais modernas, rápidas e intuitivas  
 - 🕹️ Apaixonado por **tecnologia, games e inovação**
