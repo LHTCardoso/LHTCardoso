@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🧠 Sobre mim
 
 - 🚀 Sempre explorando novas tecnologias e aprimorando minhas habilidades. 
-- 💡 Interesse em desenvolvimento **frontend**  .
+- 💡 Interesse em desenvolvimento **frontend**.
 - 🕹️ Apaixonado por **tecnologia, games e inovação**.
 
 ---
