@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCardoso&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
--->
----
 
+---
+-->
 ### 🌐 Conecte-se comigo
 
 <p align="center">
