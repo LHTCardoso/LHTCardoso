@@ -96,13 +96,13 @@ Here are some ideas to get you started:
 - 💬 Sempre aberto a colaborações e novos aprendizados. 
 
 ---
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuizCardoso&theme=onedark&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
 </p>
 
 ---
-
+-->
 ⭐ *Feito com dedicação, muito código e café por [Luiz Cardoso](https://github.com/LHTCardoso)* ☕
 
 
