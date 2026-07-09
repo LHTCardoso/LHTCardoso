@@ -6,7 +6,7 @@
 
 
 <p align="center">
-Tenho 24 anos, estou no 8º período de Sistemas de Informação e me formei como tecnólogo em Design Gráfico. Hoje, estou focado em construir minha carreira na área de desenvolvimento de software, que é onde realmente quero crescer.
+Tenho 25 anos, estou no 8º período de Sistemas de Informação e me formei como tecnólogo em Design Gráfico. Hoje, estou focado em construir minha carreira na área de desenvolvimento de software, que é onde realmente quero crescer.
 </p>
 <p align="center">
 Atualmente, estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar o que venho aprendendo e continuar evoluindo na prática. Já passei por projetos acadêmicos, estudos pessoais e estou sempre tentando aprender algo novo — seja uma linguagem, um framework ou uma forma melhor de resolver problemas.
